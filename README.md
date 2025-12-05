@@ -1,2 +1,2 @@
 # ML_assignments
-This repository contains my machine learning assignments and projects.
+This repository contains my machine learning and projects.
